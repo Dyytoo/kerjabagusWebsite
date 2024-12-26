@@ -1,0 +1,32 @@
+Email       :   Aria Pratama - ariapratama@email.com
+Password    :   Aria1234
+Mobile      :   0812-3456-7890
+
+Email       :   Dita Rahmawati - ditarahmawati@email.com
+Password    :   Dita1234
+Mobile      :   0813-4567-8901
+
+Email       :   Fajar Nugroho - fajarnugroho@email.com
+Password    :   Fajar1234
+Mobile      :   0814-5678-9012
+
+Email       :   Rina Septiani - rinaseptiani@email.com
+Password    :   Rina1234
+Mobile      :   0815-6789-0123
+
+Email       :   Indra Maulana - indramaulana@email.com
+Password    :   Indra1234
+Mobile      :   0816-7890-1234
+
+Email       :   Siska Dewi - siska.dewi@email.com
+Password    :   Siska1234
+Mobile      :   0817-8901-2345
+
+Email       :   Taufik Hidayat - taufikhidayat@email.com
+Password    :   Taufik1234
+Mobile      :   0818-9012-3456
+
+Email       :   Melisa Putri - melisaputri@email.com
+Password    :   Melisa1234
+Mobile      :   0819-0123-4567
+    
