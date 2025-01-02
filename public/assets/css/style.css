@@ -10101,161 +10101,20 @@ a#title-nav{
 }
 
 .job_lists .card {
-  min-height: 350px; 
+  min-height: 350px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
 }
 
 .job_lists .card .card-body p {
-  max-height: 60px; 
+  max-height: 60px;
   overflow: hidden;
   text-overflow: ellipsis;
 }
 
 .job_lists .card .card .card-body {
-  flex-grow: 1; 
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-}
-
-.job_lists .card .card .btn {
-  align-self: center;
-  margin-top: auto;
-}
-
-#fill-box-job{
-  height: 150px;
-}
-#text-description-width {
-  display: -webkit-box;
-  -webkit-line-clamp: 2; /* Maksimal 2 baris */
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  height: calc(1.5em * 2); /* Sesuaikan 1.5em dengan tinggi line-height */
-  line-height: 1.5em; /* Pastikan sama dengan tinggi baris */
-  margin-bottom: 1em; /* Opsional, untuk memberikan spasi antar elemen */
-}
-.job_lists .card {
-  min-height: 350px; /* Sesuaikan dengan tinggi minimum yang diinginkan */
-}
-
-#box-view-job{
-  border-radius: 10px;
-}
-
-/* File nEW 2000000000000000 */
-.border-0{
-  
-}
-/* '' */
-.icon-twitter:before {
-  content: '';
-}
-/* '' */
-.icon-facebook:before {
-  content: '';
-}
-/* '' */
-.icon-youtube-play:before {
-  content: '';
-}
-/* '' */
-.icon-instagram:before {
-  content: '';
-}
-/* '' */
-.icon-copyright:before {
-  content: '';
-}
-/* '' */
-.icon-handshake:before {
-  content: '';
-}
-/* '' */
-.saved-job a{
-  background: #00D363 !important;
-  color: #fff !important;
-}
-
-.trumbowyg-editor ul li{
-  list-style: disc;
-}
-
-.navbar-nav {
-  justify-content: center; /* Memusatkan item menu */
-  flex: 1; /* Membuat ruang untuk memusatkan menu */
-}
-
-h3#title-header{
-  color: #fff;
-  font-family: var(--bs-body-font-family);
-  font-weight: 700;
-  margin: 0;
-}
-
-p#title2-header{
-  font-family: var(--bs-body-font-family);
-  font-weight: 200;
-  font-size: 20px;
-  margin: 0;
-}
-
-a#title-nav{
-  font-weight: 900;
-  color: #628ecb;
-}
-
-#card-search{
-  border-radius: 80px 80px 80px 80px;
-  border: 1px solid #628ecb;
-}
-
-#card-search #keyword {
-  border-radius: 80px 0 0 80px;
-}
-
-#button-search-header{
-  border-radius: 0;
-  padding: 8px 0 8px 0;
-  border-radius: 0 80px 80px 0;
-}
-
-.nav-link.active {
-  position: relative; /* Pastikan link menjadi posisi relatif */
-  display: inline-block; /* Agar pseudo-elemen mengikuti ukuran teks */
-  font-weight: bold;
-}
-
-.nav-link.active::after{
-  content: "";
-    position: absolute;
-    background-color: #628ecb; /* Warna garis */
-    width: 30%; /* Sesuaikan panjang garis dengan teks */
-    height: 3px; /* Ketebalan garis */
-    bottom: 0; /* Pastikan garis tepat di bawah teks */
-    top: 25px;
-    left: 28px; /* Mulai dari awal teks */
-    transform: translateY(100%); /* Geser garis ke bawah teks */
-}
-
-.job_lists .card {
-  min-height: 350px; 
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-}
-
-.job_lists .card .card-body p {
-  max-height: 60px; 
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-
-.job_lists .card .card .card-body {
-  flex-grow: 1; 
+  flex-grow: 1;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
